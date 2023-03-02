@@ -1,4 +1,4 @@
-Documenting my experiences to connect the dots. Feel free to [reach out](http://about.tusharnankani.com/).
+Documenting my experiences to connect the dots. Feel free to [reach out](http://about.tusharnankani.com/). 
 
 # Experience
 
@@ -32,7 +32,7 @@ Here is the list of my speaking experience: [talks.tusharnankani.com](https://ta
 
 | Role | Organization/Event | Type | Year | Misc. |
 |---|---|---|---|---|
-| Mentor | [Devcation](https://devcation.live) ([GDSC IGDTUW](https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi)) | Community/Hackathon | 2022 | [YouTube Link](https://youtu.be/rh5CgOasLOs)
+| Mentor | [Devcation](https://devcation.live) ([GDSC IGDTUW](https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi)) | Community/Hackathon | 2022 | 
 | [Mentor](https://nakshatra.devfolio.co/#judges)/[Judge](https://www.linkedin.com/posts/gdscmu_nakshatra-google-mugdsc-activity-6898340415729229824-M5p5), [Link](https://nakshatra.devfolio.co/speakers-judges) | [Nakshatra](https://nakshatra.vercel.app/) ([GDSC MU](https://gdsc.community.dev/medi-caps-university-indore/)) | Community/Hackathon | 2022 | [YouTube Link](https://youtu.be/rh5CgOasLOs)
 | [Mentor](https://www.linkedin.com/feed/update/urn:li:activity:6893598968316530688/) | [WAccinge](https://waccinge.netlify.app/) ([GDSC UMIT](https://gdsc.community.dev/usha-mittal-institute-of-technology-mumbai/)) | Community/Hackathon | 2022 | |
 | Cloud Facilitator | Cloud Study Jams, GDSC | Community | 2022 | |
