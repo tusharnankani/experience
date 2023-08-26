@@ -2,6 +2,11 @@ Documenting my experiences to connect the dots. Feel free to [reach out](http://
 
 # Experience
 
+| Role | Organization | Tech Stack | Timeline |
+|---|---|---|---|
+| Software Engineer I | JP Morgan Chase & Co. | React.js, Jenkins, Java (Spring) | August 2023 - Present |
+
+
 ## Internships
 
 | Role | Organization | Tech Stack | Timeline |
@@ -10,6 +15,10 @@ Documenting my experiences to connect the dots. Feel free to [reach out](http://
 | Information Technology Intern | Nestlé | Python, SAP | Nov 2021 - Dec 2021 |
 | Web Developer and Graphic Designer | Spectrum Digital Solutions | Wordpress, Adobe After Effects | July 2020 - August 2020 |
 | Web Development Intern | WebTech Digital Solutions | JavaScript, PHP, MySQL | June 2020 - July 2020 |
+
+## Projects
+
+Here is the list of my projects: [projects.tusharnankani.com](https://tusharnankani.github.io/projects) ([tusharnankani/projects](https://github.com/tusharnankani/projects))
 
 ## Talks
 
@@ -20,6 +29,7 @@ Here is the list of my speaking experience: [talks.tusharnankani.com](https://ta
 | Role | Organization | Timeline |
 |---|---|---|
 | Admin (Core Team) | [Our Tech Community (OTC)](https://ourtech.community/) | August 2022 - Present | 
+| Core | [Friends of Figma, Mumbai](https://friends.figma.com/mumbai) | August 2023 - Present | 
 | Mentor | TSEC CodeCell | August 2022 - March 2023 | 
 | Mentor | TSEC Entrepreneurship Cell (E-Cell) | August 2022 - March 2023 |
 | Lead | GDSC TSEC | July 2021 - July 2022 | 
@@ -32,6 +42,7 @@ Here is the list of my speaking experience: [talks.tusharnankani.com](https://ta
 
 | Role | Organization/Event | Type | Year | Misc. |
 |---|---|---|---|---|
+| Judge | [Technovate](https://technovate.devfolio.co) ([SPIT](https://technovate.rotaract3141.org) | Community/Hackathon | 2023 | | 
 | Mentor | [Devcation](https://devcation.live) ([GDSC IGDTUW](https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi)) | Community/Hackathon | 2022 | 
 | [Mentor](https://nakshatra.devfolio.co/#judges)/[Judge](https://www.linkedin.com/posts/gdscmu_nakshatra-google-mugdsc-activity-6898340415729229824-M5p5), [Link](https://nakshatra.devfolio.co/speakers-judges) | [Nakshatra](https://nakshatra.vercel.app/) ([GDSC MU](https://gdsc.community.dev/medi-caps-university-indore/)) | Community/Hackathon | 2022 | [YouTube Link](https://youtu.be/rh5CgOasLOs)
 | [Mentor](https://www.linkedin.com/feed/update/urn:li:activity:6893598968316530688/) | [WAccinge](https://waccinge.netlify.app/) ([GDSC UMIT](https://gdsc.community.dev/usha-mittal-institute-of-technology-mumbai/)) | Community/Hackathon | 2022 | |
