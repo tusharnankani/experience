@@ -42,7 +42,7 @@ Here is the list of my speaking experience: [talks.tusharnankani.com](https://ta
 
 | Role | Organization/Event | Type | Year | Misc. |
 |---|---|---|---|---|
-| Judge | [Technovate](https://technovate.devfolio.co) ([SPIT](https://technovate.rotaract3141.org) | Community/Hackathon | 2023 | | 
+| Judge | [Technovate](https://technovate.devfolio.co) ([SPIT](https://technovate.rotaract3141.org)) | Community/Hackathon | 2023 | | 
 | Mentor | [Devcation](https://devcation.live) ([GDSC IGDTUW](https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi)) | Community/Hackathon | 2022 | 
 | [Mentor](https://nakshatra.devfolio.co/#judges)/[Judge](https://www.linkedin.com/posts/gdscmu_nakshatra-google-mugdsc-activity-6898340415729229824-M5p5), [Link](https://nakshatra.devfolio.co/speakers-judges) | [Nakshatra](https://nakshatra.vercel.app/) ([GDSC MU](https://gdsc.community.dev/medi-caps-university-indore/)) | Community/Hackathon | 2022 | [YouTube Link](https://youtu.be/rh5CgOasLOs)
 | [Mentor](https://www.linkedin.com/feed/update/urn:li:activity:6893598968316530688/) | [WAccinge](https://waccinge.netlify.app/) ([GDSC UMIT](https://gdsc.community.dev/usha-mittal-institute-of-technology-mumbai/)) | Community/Hackathon | 2022 | |
