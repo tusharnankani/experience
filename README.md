@@ -4,7 +4,7 @@ Documenting my experiences to connect the dots. Feel free to [reach out](http://
 
 | Role | Organization | Tech Stack | Timeline |
 |---|---|---|---|
-| Software Engineer I | JP Morgan Chase & Co. | React.js, Jenkins, Java (Spring) | August 2023 - Present |
+| Software Engineer I | JP Morgan Chase & Co. | Java, Spring Boot, SQL, Pentaho, Unix, Agile | August 2023 - Present |
 
 
 ## Internships
@@ -28,8 +28,11 @@ Here is the list of my speaking experience: [talks.tusharnankani.com](https://ta
 
 | Role | Organization | Timeline |
 |---|---|---|
-| Admin (Core Team) | [Our Tech Community (OTC)](https://ourtech.community/) | August 2022 - Present | 
-| Core | [Friends of Figma, Mumbai](https://friends.figma.com/mumbai) | August 2023 - Present | 
+| Community Lead | JPMC's Ignite Web Development Community | January 2025 - Present | 
+| Facilitator |  JPMC's GenerationTech for Social Good | Feb 2024 | 
+| Community Lead | [Our Tech Community (OTC)](https://ourtech.community/) | August 2022 - December 2024 | 
+| Admin (Core Team) | [Our Tech Community (OTC)](https://ourtech.community/) | August 2022 - December 2024 | 
+| Core | [Friends of Figma, Mumbai](https://friends.figma.com/mumbai) | August 2023 - August 2024 | 
 | Mentor | TSEC CodeCell | August 2022 - March 2023 | 
 | Mentor | TSEC Entrepreneurship Cell (E-Cell) | August 2022 - March 2023 |
 | Lead | GDSC TSEC | July 2021 - July 2022 | 
@@ -42,6 +45,9 @@ Here is the list of my speaking experience: [talks.tusharnankani.com](https://ta
 
 | Role | Organization/Event | Type | Year | Misc. |
 |---|---|---|---|---|
+| Judge | [TSEC CodeCell](https://tseccodecell.com) | Hackathon | Jan 2025 | |
+| Mentor | JPMC's GenerationTech for Good | Hackathon | Feb 2024 | |
+| Mentor | [TSEC CodeCell](https://tseccodecell.com) | Hackathon | Jan 2024 | |
 | Judge | [Technovate](https://technovate.devfolio.co) ([SPIT](https://technovate.rotaract3141.org)) | Community/Hackathon | 2023 | | 
 | Mentor | [Devcation](https://devcation.live) ([GDSC IGDTUW](https://gdsc.community.dev/indira-gandhi-delhi-technical-university-for-women-delhi)) | Community/Hackathon | 2022 | 
 | [Mentor](https://nakshatra.devfolio.co/#judges)/[Judge](https://www.linkedin.com/posts/gdscmu_nakshatra-google-mugdsc-activity-6898340415729229824-M5p5), [Link](https://nakshatra.devfolio.co/speakers-judges) | [Nakshatra](https://nakshatra.vercel.app/) ([GDSC MU](https://gdsc.community.dev/medi-caps-university-indore/)) | Community/Hackathon | 2022 | [YouTube Link](https://youtu.be/rh5CgOasLOs)
